@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">E-commerce C19 - Mobile Track G Mon &amp; thu</string>
+    <string name="greeting">Hello World!</string>
+    <string name="title_activity_ecommerce">EcommerceActivity</string>
+    <string name="app_development_image">App Development Image</string>
+    <string name="search_text_field">Search text field</string>
+    <string name="what_do_you_search_for">What do you search for?</string>
+    <string name="card_image">Card Image</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View all</string>
+    <string name="headphone">HeadPhone</string>
+</resources>
