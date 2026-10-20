@@ -78,7 +78,6 @@ fun HomeScreen(modifier: Modifier = Modifier) {
     var searchQuery by remember { mutableStateOf("") }
     val typography = MaterialTheme.typography
     val colorScheme = MaterialTheme.colorScheme
-
     Column(
         modifier = modifier
             .fillMaxSize()
